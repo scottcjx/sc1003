@@ -10,4 +10,4 @@ jobs:
       - name: Markdown autodocs
         uses: dineshsonachalam/markdown-autodocs@v1.0.2
         with:
-          output_file_paths: '[./docs/*, ./docs/*/*/index.md]'
+          output_file_paths: '[./docs/*, ./docs/*/*/index.md, ./docs/second_half/lab_5/index.md]'

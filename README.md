@@ -30,3 +30,5 @@ This repo contains most deliverables as is so far for this mod.
 4. [Lab 4](./second_half/lab_4/index.md)
 5. [Lab 5](./second_half/lab_5/index.md)
 
+## Final Assignment
+- [Helper](https://https://scottcjx.github.io/sc1003-final-assignment-helper/)

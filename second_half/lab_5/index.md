@@ -2,19 +2,22 @@
 Codes for sc1003 lab 5, PHONEBOOK
 
 ### printPB
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./docs/second_half/lab_5/main.c&lines=49-60) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
 <!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./second_half/lab_5/main.c&lines=49-60) -->
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 ### readin
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./second_half/lab_5/main.c&lines=61-80) -->
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./docs/second_half/lab_5/main.c&lines=61-80) -->
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 ### search
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./second_half/lab_5/main.c&lines=81-94) -->
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./docs/second_half/lab_5/main.c&lines=81-94) -->
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 ### all
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./second_half/lab_5/main.c) -->
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./docs/second_half/lab_5/main.c) -->
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 ## License

@@ -13,7 +13,6 @@ int main()
     
     converted_val = (usr_inp - 32) * (5.00/9.00);
     printf("Converted degree in C: %.2f\n", converted_val);
-
   }
   
   return 0;

@@ -53,3 +53,8 @@ _3_3_2 -- yes --> _3_3_3[/get password/] --> 3_3_4{password = passw in dict for 
 end_([end])
 
 ```
+
+## License
+This project is available under the GPL v3 license. See the [LICENSE](./LICENSE.md) file for more info.
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 

@@ -16,6 +16,7 @@ This repo contains most deliverables as is so far for this mod.
 - `First Half` consists of Python labs.
 - `Second Half` consists of C labs.
 - `Final Assignment helper` consists of all things u need to finish the final assignment
+- `Additional` consists of pratices as per given in APAS
 
 ## First Half
 1. [Lab 1](./first_half/lab_1)

@@ -41,10 +41,6 @@ This repo contains most deliverables as is so far for this mod.
 ## Final Assignment
 - [Helper](https://https://scottcjx.github.io/sc1003-final-assignment-helper/)
 
-{% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
-{% endfor %}
-
 ## License
 This project is available under the GPL v3 license. See the [LICENSE](./LICENSE.md) file for more info.
 

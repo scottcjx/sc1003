@@ -18,17 +18,24 @@ This repo contains most deliverables as is so far for this mod.
 - `Final Assignment helper` consists of all things u need to finish the final assignment
 
 ## First Half
-1. [Lab 1](./first_half/lab_1/index.md)
-2. [Lab 2](./first_half/lab_2/index.md)
-3. [Lab 3](./first_half/lab_3/index.md)
-4. [Lab 4](./first_half/lab_4/index.md)
+1. [Lab 1](./first_half/lab_1)
+2. [Lab 2](./first_half/lab_2)
+3. [Lab 3](./first_half/lab_3)
+4. [Lab 4](./first_half/lab_4)
 
 ## Second Half
-1. [Lab 1](./second_half/lab_1/index.md)
-2. [Lab 2](./second_half/lab_2/index.md)
-3. [Lab 3](./second_half/lab_3/index.md)
-4. [Lab 4](./second_half/lab_4/index.md)
-5. [Lab 5](./second_half/lab_5/index.md)
+1. [Lab 1](./second_half/lab_1)
+2. [Lab 2](./second_half/lab_2)
+3. [Lab 3](./second_half/lab_3)
+4. [Lab 4](./second_half/lab_4)
+5. [Lab 5](./second_half/lab_5)
+
+## Additional Practices
+1. [Control Flow](./additional/prac_1/)
+2. [Functions and Pointers](./additional/prac_2/)
+3. [Arrays](./additional/prac_3/)
+4. [Character Strings](./additional/prac_4/)
+5. [Structs](./additional/prac_5/)
 
 ## Final Assignment
 - [Helper](https://https://scottcjx.github.io/sc1003-final-assignment-helper/)

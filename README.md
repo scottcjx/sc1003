@@ -39,7 +39,7 @@ This repo contains most deliverables as is so far for this mod.
 5. [Structs](./additional/prac_5/)
 
 ## Final Assignment
-- [Helper](https://https://scottcjx.github.io/sc1003-final-assignment-helper/)
+- [Helper](https://scottcjx.github.io/sc1003-final-assignment-helper/)
 
 ## License
 This project is available under the GPL v3 license. See the [LICENSE](./LICENSE.md) file for more info.

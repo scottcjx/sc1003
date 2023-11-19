@@ -5,6 +5,8 @@ Practice 3.
 ### Contents
 
 - [minOfMax2D](./minOfMax2D)
+- [compress2D](./compress2D)
+- [diagonals2D](./diagonals2D)
 
 ## License
 This project is available under the GPL v3 license. See the [LICENSE](./LICENSE.md) file for more info.

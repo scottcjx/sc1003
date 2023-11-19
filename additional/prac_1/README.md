@@ -4,7 +4,7 @@ Practice 1.
 
 ### Contents
 
-- [Temperature](./Temperature)
+- [Temperature](./temperature)
 - [Pattern 2](./pattern2)
 - [Pattern 3](./pattern3)
 

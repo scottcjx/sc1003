@@ -38,6 +38,9 @@ This repo contains most deliverables as is so far for this mod.
 4. [Character Strings](./additional/prac_4/)
 5. [Structs](./additional/prac_5/)
 
+## Mock Tests
+1. [Coding](./mock_test)
+
 ## Final Assignment
 - [Helper](https://scottcjx.github.io/sc1003-final-assignment-helper/)
 

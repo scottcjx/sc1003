@@ -45,6 +45,11 @@ This repo contains most deliverables as is so far for this mod.
 ## Final Assignment
 - [Helper](https://scottcjx.github.io/sc1003-final-assignment-helper/)
 
+## Consult Me
+- [Session 1](./consultme/1)
+    - [notes.c](./consultme/1/notes.c)
+    - [notes.pdf](./consultme/1/notes.pdf)
+
 ## License
 This project is available under the GPL v3 license. See the [LICENSE](./LICENSE.md) file for more info.
 

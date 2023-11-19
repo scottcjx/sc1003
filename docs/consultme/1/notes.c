@@ -128,8 +128,6 @@ typedef struct
     struct myType myVar;
 } Person;
 
-/***/
-
 typedef struct
 {
     char name[40];

@@ -15,9 +15,49 @@ int main()
 }
 int extEvenDigits1(int num)  
 {   
-   /* Write your code here */
+   int curr_mult = 10;
+   int tmpNum = num;
+   int val;
+   int c = 1;
+   int ret = 0;
+   for (int i = 0; i < 16; i++)
+   {
+       val = tmpNum % 10;
+       if (val % 2 == 0)
+       {
+           ret += c*val;
+           c *= 10;
+       }
+       tmpNum = tmpNum/10;
+   }
+   
+   if (ret == 0) return -1;
+   
+   return ret;
 }
 void extEvenDigits2(int num, int *result)  
 {   
-   /* Write your code here */
+   int curr_mult = 10;
+   int tmpNum = num;
+   int val;
+   int c = 1;
+   int ret = 0;
+   for (int i = 0; i < 16; i++)
+   {
+       val = tmpNum % 10;
+       if (val % 2 == 0)
+       {
+           ret += c*val;
+           c *= 10;
+       }
+       tmpNum = tmpNum/10;
+   }
+    if (ret == 0) 
+    {
+        *result = -1;
+    }
+    else
+    {
+        *result = ret;
+    }
 }

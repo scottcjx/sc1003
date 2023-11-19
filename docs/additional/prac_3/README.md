@@ -4,7 +4,7 @@ Practice 3.
 
 ### Contents
 
-WIP
+- [minOfMax2D](./minOfMax2D)
 
 ## License
 This project is available under the GPL v3 license. See the [LICENSE](./LICENSE.md) file for more info.

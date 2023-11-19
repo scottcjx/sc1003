@@ -6,6 +6,7 @@ Practice 4.
 
 - [Cipher Text](./cipherText)
 - [maxCharToFront](./maxCharToFront)
+- [findMinMaxStr](./findMinMaxStr)
 
 ## License
 This project is available under the GPL v3 license. See the [LICENSE](./LICENSE.md) file for more info.

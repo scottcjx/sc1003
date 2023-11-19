@@ -5,6 +5,7 @@ Practice 4.
 ### Contents
 
 - [Cipher Text](./cipherText)
+- [maxCharToFront](./maxCharToFront)
 
 ## License
 This project is available under the GPL v3 license. See the [LICENSE](./LICENSE.md) file for more info.

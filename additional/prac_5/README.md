@@ -4,8 +4,11 @@ Practice 5.
 
 ### Contents
 
+- [customer](./customer)
+- [student](./student)
 - [Employee](./employee)
 - [findMiddleAge](./findMiddleAge)
+
 
 ## License
 This project is available under the GPL v3 license. See the [LICENSE](./LICENSE.md) file for more info.

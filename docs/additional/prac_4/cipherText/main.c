@@ -20,7 +20,8 @@ int main()
             scanf("%c",&dummychar);
             printf("Enter the string: \n");
             fgets(str, 80, stdin);
-            if (p=strchr(str,'\n')) *p = '\0';   
+            if (p=strchr(str,'\n')) *p = '\0';
+               
             printf("To cipher: %s -> ", str);
             cipher(str);
             printf("%s\n", str);  

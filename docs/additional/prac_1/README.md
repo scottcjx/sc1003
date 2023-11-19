@@ -5,6 +5,8 @@ Practice 1.
 ### Contents
 
 - [Temperature](./Temperature)
+- [Pattern 2](./pattern2)
+- [Pattern 3](./pattern3)
 
 ## License
 This project is available under the GPL v3 license. See the [LICENSE](./LICENSE.md) file for more info.

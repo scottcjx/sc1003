@@ -1,9 +1,3 @@
-# Dec To Binary
-
-[Read the Brief](./decToBin.pdf)
-
-## Code
-``` c
 #include <stdio.h>
 #include <math.h>
 int main()
@@ -34,5 +28,3 @@ int main()
  printf("\n");
  return 0;
 } 
-
-```
